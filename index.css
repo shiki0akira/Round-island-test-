@@ -1,0 +1,137 @@
+
+
+body{ background-color: #eeeeff;
+      color: #2d2d2d;
+      font-family: "微軟正黑體", Arial, Verdana, sans-serif;
+      font-size: 14pt;
+      margin: 0px auto 0px auto;
+}
+
+h1{ font-weight: bold;
+    color: #6900ff;  
+}
+
+header{ width: 100%;
+        height: 80px;
+        padding: 15px;
+        background: url("images/top.png");
+        position: fixed;
+        z-index: 50;
+}
+
+#logo{ padding: 0px 0px 0px 40px;
+}
+
+ul{ float: right;
+    padding: 30px 65px 30px 30px;
+}
+
+li{ color: #ffffff;
+    display: inline;
+    margin: 0px 10px 0px 0px; 
+}
+
+header a{ color: #ffffff;
+          text-decoration: none;
+}
+
+.home{ color: #ffd600;
+       font-weight: bold;
+}
+
+header a:hover{ color: #6900ff;
+                background-color: #ffd600;
+                font-weight: bold;
+}
+
+#main_image{ text-align: center;
+}
+
+#project h1{ border: 5px solid #6900ff;
+             padding:30px 70px 30px 70px;
+             margin: 30px 60px 10px 60px;
+             border-radius:20px;
+             width: 275px;
+             float: left;
+             text-align: center;
+}
+
+#project h2{ font-size: 24pt;
+}
+
+#project nav{ width: 1340px;
+              padding:30px 70px 30px 70px;
+              margin: 30px 10px 10px 50px;
+              line-height: 1.4em;
+}
+
+#itinerary nav{ margin: 50px 5px 30px 80px;
+}
+
+.map{ float: right;
+      margin: 50px 70px 30px 50px;
+}
+
+
+
+#attractions{ border: 5px solid #6900ff;
+              border-radius:20px;
+              margin: 100px 80px 20px 80px;
+              text-align: center;   
+              padding: 5px;   
+}
+
+
+.day{ display: inline-block;
+      width: 640px;
+      margin: -30px auto -50px auto;
+      position: relative;
+      left: -40px;
+      font-size: 24pt;
+}
+
+figcaption a{ border: 3px solid #6900ff;
+              color: #ffffff;
+              background-color: #6900ff;
+              border-radius:20px;
+              padding: 5px;
+              text-decoration: none;
+              position: relative;
+              top: -180px;
+              left: 30px;
+              z-index: 20;
+}
+
+figcaption a:hover{ color: #6900ff;
+                    background-color: #ffd600;
+                    font-weight: bold;
+}
+
+
+footer{ background-color: #687dff;
+        color: #ffffff;
+        text-align: center;
+        font-size: 10pt;
+        padding: 2px;
+        margin: 10px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
